@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   # address: >
     # <p>555 your office number</p>
@@ -18,8 +18,7 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, world, I am Shaivi. I am a sophomore at Indira Gandhi Delhi Technical University for Women majoring in Electronics and Communication with Artificial Intelligence. I am an AI-ML enthusiast and enjoy writing clean, documented code in Python. 
-
+Hello, world, I am Shaivi. A third-year Electronics and Communication student at Indira Gandhi Delhi Technical University for Women, specializing in Artificial Intelligence. I have a keen interest in AI/ML and love writing clean, well-documented Python code.
 
 Stay tuned as I add all the cool stuff I plan to do here!
 
