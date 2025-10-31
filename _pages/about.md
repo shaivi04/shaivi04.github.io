@@ -18,7 +18,7 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, world, I am Shaivi. A third-year Electronics and Communication student at Indira Gandhi Delhi Technical University for Women, specializing in Artificial Intelligence. I have a keen interest in AI/ML and love writing clean, well-documented Python code.
+Hello, world, I am Shaivi. A final-year Electronics and Communication student at Indira Gandhi Delhi Technical University for Women, specializing in Artificial Intelligence. I have a keen interest in AI/ML and love writing clean, well-documented Python code.
 
 Stay tuned as I add all the cool stuff I plan to do here!
 
