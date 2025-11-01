@@ -28,4 +28,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: tags: {{ secrets.DOCKER_USERNAME }}/al-folio
+        tags: ${{ secrets.DOCKER_USERNAME }}/al-folio
